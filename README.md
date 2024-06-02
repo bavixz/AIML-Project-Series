@@ -2,7 +2,7 @@
 
 1st project
 
-basic_Chatbot1.py
+basic_Chatbot1.py, 
 intents.json
 
 error handling 
@@ -13,10 +13,10 @@ The current error handling approach prompts the user to provide an answer even i
 
 2nd project
 
-main.py
-nltk_py.py
-model.py
-admissionBot.py
+main.py, 
+nltk_py.py, 
+model.py, 
+admissionBot.py, 
 admission.json
 
 error handling
