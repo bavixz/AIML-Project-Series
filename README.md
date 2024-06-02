@@ -1,5 +1,7 @@
 # AIML-Project-Series
 
+Sorry for late submission bcz of my sem.
+
 1st project
 
 basic_Chatbot1.py, 
@@ -19,5 +21,5 @@ model.py,
 admissionBot.py, 
 admission.json
 
-error handling
+we can use basic_Chatbot1.py for this also just change the json file name that's all.
 
